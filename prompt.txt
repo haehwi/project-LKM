@@ -1,0 +1,42 @@
+"Buatkan saya kode untuk website profil kelompok yang modern, elegan, dan responsif (bisa menggunakan HTML/CSS/JS murni atau React dengan Tailwind CSS).
+
+Berikut adalah spesifikasi desain dan kontennya:
+
+1. Tema dan Desain Visual:
+
+Warna Utama: Dominan putih (bersih dan minimalis).
+Warna Aksen: Kuning soft/pastel (untuk tombol, hover efek, highlight teks, atau elemen dekoratif).
+Tipografi: Gunakan font yang modern dan mudah dibaca (seperti Inter atau Poppins).
+Ikon: Gunakan ikon dari library seperti Lucide Icons atau FontAwesome. Desain ikon untuk setiap menu harus terlihat elegan, menarik, dan konsisten.
+2. Struktur Navigasi (Navbar):
+
+Logo/Judul Navbar: Teks "Kelompok 9" dengan gaya yang elegan (di sebelah kiri).
+Menu Navigasi: Home, Anggota, Materi, Mentor (di sebelah kanan atau tengah, dilengkapi dengan ikon elegan berukuran proporsional di samping teks).
+Navbar harus sticky (tetap di atas saat di-scroll).
+3. Halaman / Bagian (Sections):
+
+Bagian Home (Hero Section):
+
+Tampilkan judul utama yang besar dan menarik: "Latihan Kepemimpinan Mahasiswa Informatika".
+Berikan deskripsi singkat di bawahnya (opsional/placeholder) dan tombol call-to-action (misal: "Mulai Jelajahi").
+Gunakan latar belakang putih bersih dengan sentuhan gradien kuning soft yang sangat tipis agar tidak membosankan.
+Bagian Anggota (Members):
+
+Tampilkan dalam bentuk Grid Cards yang rapi.
+Setiap kartu anggota harus memuat:
+Foto profil (gunakan placeholder gambar berbentuk lingkaran atau kotak dengan sudut melengkung/rounded).
+Nama lengkap.
+NPM (Nomor Pokok Mahasiswa).
+Tautan/Tombol menuju profil LinkedIn (gunakan ikon LinkedIn).
+Bagian Materi (Materials):
+
+Tampilkan dalam bentuk daftar atau kartu materi.
+Setiap item materi harus memuat:
+Judul/Nama Materi (teks tebal/menonjol).
+Isi/Deskripsi singkat dari materi tersebut.
+Bagian Mentor:
+
+Desain bagian ini lebih simpel namun tetap elegan.
+Tampilkan daftar Nama Mentor saja (tanpa foto atau deskripsi panjang).
+Gunakan tipografi yang indah atau letakkan nama-nama tersebut di dalam badge atau kartu minimalis.
+Instruksi Tambahan: Pastikan transisi antar menu (jika menggunakan single-page) berjalan mulus (smooth scrolling). Tambahkan animasi hover (saat kursor diarahkan) pada tombol dan kartu agar website terasa hidup dan dinamis."
